@@ -193,6 +193,7 @@ Complete any remaining student details and add the actual source list, Gemini te
 
 ## Author
 
+**Author Name:** Tanushree Sanjay Dhabekar
 Prepared as an MBA individual practical project for the course **Artificial Intelligence & Business Applications**.
 
 **Project Category:** Education Management / AI-Powered Business Innovation  
